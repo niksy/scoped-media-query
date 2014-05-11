@@ -1,0 +1,29 @@
+{
+  "name": "scoped-media-query",
+  "version": "0.1.1",
+  "homepage": "https://github.com/niksy/scoped-media-query",
+  "description": "An element query workaround. A Sass mixin for scoping CSS styles to apply only within given selector/media query pairs.",
+  "main": "_scopedmediaquery.scss",
+  "keywords": [
+    "scss",
+    "mq",
+    "scope",
+    "element",
+    "query"
+  ],
+  "authors": [
+    "Micah Godbolt",
+    "Jorge Alberto Garcia",
+    "Filament Group",
+    "Ivan Nikolić"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
