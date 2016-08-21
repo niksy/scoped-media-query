@@ -1,3 +1,9 @@
+![Unmaintained project](https://img.shields.io/badge/status-unmaintained-red.svg)
+
+**This project is unmaintained. Please check [sass-scoped-media-query](https://github.com/niksy/sass-scoped-media-query) for more recent version.**
+
+---
+
 Scoped Media Query Sass Mixin
 ==================
 
